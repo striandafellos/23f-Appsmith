@@ -3,6 +3,10 @@
     {
       "id": "Persona 3 Messages",
       "isDefault": true
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
     }
   ],
   "viewMode": false,
