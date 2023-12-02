@@ -23,6 +23,22 @@
     {
       "id": "Persona 4 Documents ",
       "isDefault": false
+    },
+    {
+      "id": "Persona 3 Planner",
+      "isDefault": false
+    },
+    {
+      "id": "Persona 3 Budget Tracker",
+      "isDefault": false
+    },
+    {
+      "id": "Persona 3 Messages",
+      "isDefault": false
+    },
+    {
+      "id": "Persona 3 Folder",
+      "isDefault": false
     }
   ],
   "viewMode": false,
