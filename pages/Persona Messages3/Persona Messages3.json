@@ -1,26 +1,27 @@
 {
   "unpublishedPage": {
-    "name": "John Budget Tracker",
-    "slug": "john-budget-tracker",
+    "name": "Persona Messages3",
+    "slug": "persona-messages3",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 1224,
+          "rightColumn": 4896,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 720,
+          "bottomRow": 480,
           "containerStyle": "none",
-          "snapRows": 71,
+          "snapRows": 124,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 87,
-          "minHeight": 730,
+          "minHeight": 1292,
+          "dynamicTriggerPathList": [],
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
@@ -28,7 +29,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "John Budget Tracker",
+        "id": "Persona Messages3",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +40,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "656b8b6082b51024b44a526b_656b8fa3427200263975dcf1"
+  "gitSyncId": "65693f035ddf8e0feaf98060_65693f035ddf8e0feaf98062"
 }

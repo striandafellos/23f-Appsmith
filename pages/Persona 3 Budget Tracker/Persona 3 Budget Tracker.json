@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "John Folder",
-    "slug": "john-folder",
+    "name": "Persona 3 Budget Tracker",
+    "slug": "persona-3-budget-tracker",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 380,
+          "bottomRow": 720,
           "containerStyle": "none",
           "snapRows": 71,
           "parentRowSpace": 1,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "John Folder",
+        "id": "Persona 3 Budget Tracker",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "656b8b6082b51024b44a526b_656b91c3ca95253f21ebdac4"
+  "gitSyncId": "656b8b6082b51024b44a526b_656b8fa3427200263975dcf1"
 }

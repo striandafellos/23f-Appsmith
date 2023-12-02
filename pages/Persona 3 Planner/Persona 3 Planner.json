@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "John Planner",
-    "slug": "john-planner",
+    "name": "Persona 3 Planner",
+    "slug": "persona-3-planner",
     "layouts": [
       {
         "viewMode": false,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "John Planner",
+        "id": "Persona 3 Planner",
         "deleted": false,
         "policies": [],
         "userPermissions": []

@@ -1,19 +1,19 @@
 {
   "pages": [
     {
-      "id": "Johns Messages",
+      "id": "Persona Messages3",
       "isDefault": true
     },
     {
-      "id": "John Budget Tracker",
+      "id": "Persona 3 Budget Tracker",
       "isDefault": false
     },
     {
-      "id": "John Planner",
+      "id": "Persona 3 Planner",
       "isDefault": false
     },
     {
-      "id": "John Folder",
+      "id": "Persona 3 Folder",
       "isDefault": false
     }
   ],
