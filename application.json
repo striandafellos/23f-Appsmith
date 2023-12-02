@@ -1,11 +1,27 @@
 {
   "pages": [
     {
-      "id": "Persona 1 Jane Doe Tasks",
+      "id": "Persona 1 Tasks Page",
       "isDefault": true
     },
     {
-      "id": "Persona 1 Jane Doe Events",
+      "id": "Persona 1 Events Page",
+      "isDefault": false
+    },
+    {
+      "id": "Person 4 Dee Smith Calender",
+      "isDefault": false
+    },
+    {
+      "id": "Persona 4 Dee Smith Folders ",
+      "isDefault": false
+    },
+    {
+      "id": "Persona 4 Job Applications",
+      "isDefault": false
+    },
+    {
+      "id": "Persona 4 Documents ",
       "isDefault": false
     }
   ],

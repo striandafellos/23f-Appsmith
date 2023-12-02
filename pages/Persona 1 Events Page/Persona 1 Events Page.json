@@ -1,27 +1,26 @@
 {
   "unpublishedPage": {
-    "name": "Persona 1 Jane Doe Tasks",
-    "slug": "persona-1-jane-doe-tasks",
+    "name": "Persona 1 Events Page",
+    "slug": "persona-1-events-page",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 560,
+          "bottomRow": 530,
           "containerStyle": "none",
-          "snapRows": 124,
+          "snapRows": 63,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 87,
-          "minHeight": 1292,
-          "dynamicTriggerPathList": [],
+          "minHeight": 650,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
@@ -29,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Persona 1 Jane Doe Tasks",
+        "id": "Persona 1 Events Page",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -40,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "65693f035ddf8e0feaf98060_65693f035ddf8e0feaf98062"
+  "gitSyncId": "656b8a1882b51024b44a5262_656b8d89ac479b5c50819244"
 }
