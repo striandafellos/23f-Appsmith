@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Persona Messages3",
-    "slug": "persona-messages3",
+    "name": "Persona 3 Messages",
+    "slug": "persona-3-messages",
     "layouts": [
       {
         "viewMode": false,
@@ -29,7 +29,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Persona Messages3",
+        "id": "Persona 3 Messages",
         "deleted": false,
         "policies": [],
         "userPermissions": []
