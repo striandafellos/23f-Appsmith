@@ -1,8 +1,12 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "Persona 1 Jane Doe Tasks",
       "isDefault": true
+    },
+    {
+      "id": "Persona 1 Jane Doe Events",
+      "isDefault": false
     }
   ],
   "viewMode": false,
