@@ -46,6 +46,9 @@
   "unpublishedAppLayout": {
     "type": "TABLET_LARGE"
   },
+  "publishedAppLayout": {
+    "type": "TABLET_LARGE"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
