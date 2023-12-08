@@ -1,6 +1,7 @@
 {{{"CalendarID": eventbox.formData.CalendarID,
     "Details": eventbox.formData.Details,
     "EventDate":"2020-10-10 02:43:03",
+	// "EventID": eventbox.formData.EventID,
     "PlannerID": eventbox.formData.PlannerID,
     "Title": eventbox.formData.Title,
     "UserID": eventbox.formData.UserID}}}
