@@ -2,7 +2,7 @@
     "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
     "borderColor": "#E0DEDE",
     "iconSVG": "/static/media/icon.46adf7030d667f0ad9002aa31f997573.svg",
-    "onSubmit": "{{removeValue(\"\")}}",
+    "onSubmit": "{{messages.run()}}",
     "topRow": 4,
     "type": "JSON_FORM_WIDGET",
     "animateLoading": true,
@@ -244,7 +244,7 @@
                 "accentColor": "{{((sourceData, formData, fieldState) => ((appsmith.theme.colors.primaryColor)))(messagebox.sourceData, messagebox.formData, messagebox.fieldState)}}",
                 "dataType": "number",
                 "accessor": "MessageID",
-                "isVisible": false,
+                "isVisible": true,
                 "label": "Message ID",
                 "originalIdentifier": "MessageID",
                 "borderRadius": "{{((sourceData, formData, fieldState) => ((appsmith.theme.borderRadius.appBorderRadius)))(messagebox.sourceData, messagebox.formData, messagebox.fieldState)}}",
@@ -254,7 +254,7 @@
                 "position": 2,
                 "isDisabled": false,
                 "sourceData": 43,
-                "fieldType": "Number Input"
+                "fieldType": "Text Input"
             }
         },
         "position": -1,
@@ -277,9 +277,9 @@
         "buttonColor": "#b91c1c",
         "buttonVariant": "PRIMARY"
     },
-    "dynamicPropertyPathList": [{"key": "sourceData"}],
+    "dynamicPropertyPathList": [],
     "displayName": "JSON Form",
-    "bottomRow": 34,
+    "bottomRow": 38,
     "fieldLimitExceeded": false,
     "parentRowSpace": 10,
     "title": "Are you sure you want to delete message?",
