@@ -1,27 +1,26 @@
 {
   "unpublishedPage": {
-    "name": "Persona 1 Tasks Page",
-    "slug": "persona-1-tasks-page",
+    "name": "Persona1 Edit Event",
+    "slug": "persona1-edit-event",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 560,
+          "bottomRow": 440,
           "containerStyle": "none",
-          "snapRows": 124,
+          "snapRows": 62,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 87,
-          "minHeight": 1292,
-          "dynamicTriggerPathList": [],
+          "minHeight": 640,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
@@ -29,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Persona 1 Tasks Page",
+        "id": "Persona1 Edit Event",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -37,8 +36,8 @@
     ],
     "userPermissions": [],
     "policies": [],
-    "isHidden": true
+    "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "65693f035ddf8e0feaf98060_65693f035ddf8e0feaf98062"
+  "gitSyncId": "65725f56c0b754415c0ac44c_65726095c0b754415c0ac46f"
 }

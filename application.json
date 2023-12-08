@@ -5,39 +5,31 @@
       "isDefault": true
     },
     {
-      "id": "Persona 1 Events Page",
+      "id": "Persona1 Edit Event",
       "isDefault": false
     },
     {
-      "id": "Person 4 Dee Smith Calender",
+      "id": "Persona1 Events",
       "isDefault": false
     },
     {
-      "id": "Persona 4 Dee Smith Folders ",
+      "id": "Persona2 Planner",
       "isDefault": false
     },
     {
-      "id": "Persona 4 Job Applications",
+      "id": "Persona2 New Task",
       "isDefault": false
     },
     {
-      "id": "Persona 4 Documents ",
+      "id": "Persona3 Messages",
       "isDefault": false
     },
     {
-      "id": "Persona 3 Planner",
+      "id": "Persona3 Delete Messages",
       "isDefault": false
     },
     {
-      "id": "Persona 3 Budget Tracker",
-      "isDefault": false
-    },
-    {
-      "id": "Persona 3 Messages",
-      "isDefault": false
-    },
-    {
-      "id": "Persona 3 Folder",
+      "id": "Persona4 Folder",
       "isDefault": false
     }
   ],
