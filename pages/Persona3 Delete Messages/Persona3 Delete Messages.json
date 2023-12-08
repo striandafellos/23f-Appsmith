@@ -25,20 +25,7 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "Persona3 Delete Messages_messages",
-              "name": "messages",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [
-                "\n{\n    \"DateSent\": \"2023-05-01 00:02:20\",\n    \"MessageBody\": \"eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero\",\n    \"MessageID\": 25,\n    \"RecipientID\": 34,\n    \"SenderID\": 10\n  }\n\n"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
+        "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Persona3 Delete Messages",
