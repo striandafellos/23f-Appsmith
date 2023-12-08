@@ -1,12 +1,1 @@
-{{
-  {
-    "CalendarID": 26,
-    "Details": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.",
-    "EventDate": "2023-12-10 06:02:10",
-    "EventID": 1,
-    "PlannerID": 1,
-    "Title": "Y-Solowarm",
-    "UserID": 28
-  }
-
-}}
+{{eventbox.formData}}

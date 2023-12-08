@@ -29,7 +29,7 @@
       ],
       "encodeParamsToggle": true,
       "queryParameters": [],
-      "body": "{{\n  {\n    \"CalendarID\": 26,\n    \"Details\": \"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.\",\n    \"EventDate\": \"2023-12-10 06:02:10\",\n    \"EventID\": 1,\n    \"PlannerID\": 1,\n    \"Title\": \"Y-Solowarm\",\n    \"UserID\": 28\n  }\n\n}}",
+      "body": "{{eventbox.formData}}",
       "bodyFormData": [],
       "httpMethod": "PUT",
       "selfReferencingDataPaths": [],
@@ -52,7 +52,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "\n  {\n    \"CalendarID\": 26,\n    \"Details\": \"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.\",\n    \"EventDate\": \"2023-12-10 06:02:10\",\n    \"EventID\": 1,\n    \"PlannerID\": 1,\n    \"Title\": \"Y-Solowarm\",\n    \"UserID\": 28\n  }\n\n"
+      "eventbox.formData"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,

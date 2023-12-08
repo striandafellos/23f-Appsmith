@@ -129,7 +129,7 @@
     },
     "disabledWhenInvalid": true,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 34,
+    "originalBottomRow": 38,
     "useSourceData": false,
     "schema": {"__root_schema__": {
         "labelTextSize": "0.875rem",
@@ -288,7 +288,7 @@
     "parentColumnSpace": 12.921875,
     "dynamicTriggerPathList": [{"key": "onSubmit"}],
     "borderWidth": "1",
-    "sourceData": "{{\n{\n    \"DateSent\": \"Wed, 31 May 2023 00:40:27 GMT\",\n    \"MessageBody\": \"eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero\",\n    \"MessageID\": 25,\n    \"RecipientID\": 34,\n    \"SenderID\": 10\n  }\n\n}}",
+    "sourceData": "{{messages.data}}",
     "resetButtonLabel": "Reset",
     "key": "h9kk0gtze5",
     "backgroundColor": "#fff",
