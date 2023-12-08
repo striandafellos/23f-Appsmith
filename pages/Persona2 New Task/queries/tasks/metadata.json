@@ -29,7 +29,7 @@
       ],
       "encodeParamsToggle": true,
       "queryParameters": [],
-      "body": "{{\n    {\"CalendarID\": 19,\n    \"Completed\": 0,\n    \"DueDate\": \"2023-10-10 02:02:02\",\n    \"PlannerID\": 25,\n    \"TaskDescription\": \"Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.\",\n    \"TaskID\": 100,\n    \"Title\": \"Holdlamis\",\n    \"UserID\": 23}\n  \n}}",
+      "body": "{{\n    {\"CalendarID\": taskbox.formData.CalendarID,\n    \"Completed\": taskbox.formData.Completed,\n    \"DueDate\": \"2023-10-10 10:10:10\",\n    \"PlannerID\": taskbox.formData.PlannerID,\n    \"TaskDescription\": taskbox.formData.TaskDescription,\n    \"Title\": taskbox.formData.Title,\n    \"UserID\": taskbox.formData.UserID}\n  \n}}",
       "bodyFormData": [],
       "httpMethod": "POST",
       "selfReferencingDataPaths": [],
@@ -52,7 +52,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "\n    {\"CalendarID\": 19,\n    \"Completed\": 0,\n    \"DueDate\": \"2023-10-10 02:02:02\",\n    \"PlannerID\": 25,\n    \"TaskDescription\": \"Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.\",\n    \"TaskID\": 100,\n    \"Title\": \"Holdlamis\",\n    \"UserID\": 23}\n  \n"
+      "\n    {\"CalendarID\": taskbox.formData.CalendarID,\n    \"Completed\": taskbox.formData.Completed,\n    \"DueDate\": \"2023-10-10 10:10:10\",\n    \"PlannerID\": taskbox.formData.PlannerID,\n    \"TaskDescription\": taskbox.formData.TaskDescription,\n    \"Title\": taskbox.formData.Title,\n    \"UserID\": taskbox.formData.UserID}\n  \n"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,

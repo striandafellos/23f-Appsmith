@@ -44,7 +44,7 @@
   "color": "#D6D1F2",
   "icon": "saturn",
   "unpublishedAppLayout": {
-    "type": "TABLET_LARGE"
+    "type": "FLUID"
   },
   "publishedAppLayout": {
     "type": "TABLET_LARGE"

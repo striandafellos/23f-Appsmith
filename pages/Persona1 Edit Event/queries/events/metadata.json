@@ -29,7 +29,7 @@
       ],
       "encodeParamsToggle": true,
       "queryParameters": [],
-      "body": "{{{\"CalendarID\": 26,\n    \"Details\": \"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.\",\n    \"EventDate\": \"2020-10-10 02:43:03\",\n    \"EventID\": 1,\n    \"PlannerID\": 1,\n    \"Title\": \"Y-Solowarm\",\n    \"UserID\": 28}}}\n",
+      "body": "{{{\"CalendarID\": eventbox.formData.CalendarID,\n    \"Details\": eventbox.formData.Details,\n    \"EventDate\":\"2020-10-10 02:43:03\",\n    \"PlannerID\": eventbox.formData.PlannerID,\n    \"Title\": eventbox.formData.Title,\n    \"UserID\": eventbox.formData.UserID}}}\n\n\n",
       "bodyFormData": [],
       "httpMethod": "PUT",
       "selfReferencingDataPaths": [],
@@ -52,7 +52,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "{\"CalendarID\": 26,\n    \"Details\": \"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.\",\n    \"EventDate\": \"2020-10-10 02:43:03\",\n    \"EventID\": 1,\n    \"PlannerID\": 1,\n    \"Title\": \"Y-Solowarm\",\n    \"UserID\": 28}"
+      "{\"CalendarID\": eventbox.formData.CalendarID,\n    \"Details\": eventbox.formData.Details,\n    \"EventDate\":\"2020-10-10 02:43:03\",\n    \"PlannerID\": eventbox.formData.PlannerID,\n    \"Title\": eventbox.formData.Title,\n    \"UserID\": eventbox.formData.UserID}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
